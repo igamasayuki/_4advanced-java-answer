@@ -1,4 +1,4 @@
-package sample.exam_collection;
+package com.example.sample.exam_collection;
 
 public class Triathlon {
 	// フィールド
